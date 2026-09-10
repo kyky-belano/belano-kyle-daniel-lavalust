@@ -294,6 +294,7 @@ defined('PREVENT_DIRECT_ACCESS') OR exit('No direct script access allowed');
     <div class="nav-links">
         <a href="<?=site_url('student')?>">Home</a>
         <a href="<?=site_url('student/profile')?>" class="active">Profile</a>
+        <a href="<?=site_url('users')?>">Users</a>
     </div>
 </nav>
 
